@@ -4,17 +4,17 @@ Counter is a simple React application built with TypeScript. It allows users to 
 
 # Features
 
-Increment: Increase the counter by 1.
-Decrement: Decrease the counter by 1 (with a limit of 0).
-Reset: Reset the counter back to 0.
-Warning Message: Display a message when trying to decrement below zero.
+    Increment: Increase the counter by 1.
+    Decrement: Decrease the counter by 1 (with a limit of 0).
+    Reset: Reset the counter back to 0.
+    Warning Message: Display a message when trying to decrement below zero.
 
 # Installation
 
-To run this project locally, follow these steps:
-Clone the repository.
-Install the dependencies with npm install.
-Start the development server with npm start.
+    To run this project locally, follow these steps:
+    Clone the repository.
+    Install the dependencies with npm install.
+    Start the development server with npm start.
 
 # Demo
 https://btissame-qorchi.github.io/counter-react/
