@@ -14,7 +14,7 @@ Counter is a simple React application built with TypeScript. It allows users to 
     To run this project locally, follow these steps:
     Clone the repository.
     Install the dependencies with npm install.
-    Start the development server with npm start.
+    Start the development server with npm run dev.
 
 # Demo
 https://btissame-qorchi.github.io/counter-react/
