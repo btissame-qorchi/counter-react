@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+      font-family: "Roboto", serif;
+      height: 100vh;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e6ffe6;
+}
+
+.counter-app{
+    text-align: center;
+    h1{
+        margin-bottom: 15px;
+        color: #556b2f;
+    }
+    p{
+        font-size: 11px;
+        padding-bottom: 15px;
+    }
+    .number{
+        text-align: center;
+        font-size: 30px;
+        color: #f08080 ;
+    }
+    .actions{
+        margin-top: 30px;
+        display: flex;
+        gap:10px;
+        justify-content: center;
+        button{
+            border-radius: 50%;
+            height: 50px;
+            width: 50px;
+            border: 0;
+            background-color: #8fbc8f;
+            cursor: pointer;
+            font-size: 18px;
+            color: #303c1b;
+            font-weight: 700;
+            
+        }
+    }
+}
